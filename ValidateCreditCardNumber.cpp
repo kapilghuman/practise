@@ -10,13 +10,13 @@ class Kata {
       
       long nDigits = str1.size();
       int modu=nDigits % 2;
-      cout<<" value of modu is "<<modu<<" ";
+      //cout<<" value of modu is "<<modu<<" ";
       if(modu == 0)
       {
        for(long i=0;i<nDigits;i++)
           {
               int p;
-              if(i%2 == 1)
+              if(i%2 == 0)
               {
                p=(str1[i]-'0')*2;
                 
