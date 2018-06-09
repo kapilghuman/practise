@@ -24,16 +24,16 @@ class Kata {
                   {
                     p=p-9;
                   }
-                  cout<<"value at "<<i<<"is"<<p;
+                //  cout<<"value at "<<i<<"is"<<p;
                   sum=sum+p;
-              cout<<"value of sum is "<<sum<<endl;
+              //cout<<"value of sum is "<<sum<<endl;
               }
               else
               {
                   p=str1[i]-'0';
-                  cout<<"value at "<<i<<"is"<<p;
+                //  cout<<"value at "<<i<<"is"<<p;
                   sum=sum+p;
-              cout<<"value of sum is "<<sum<<endl;
+              //cout<<"value of sum is "<<sum<<endl;
               }
           }
           
@@ -60,16 +60,16 @@ class Kata {
                   {
                     p=p-9;
                   }
-                  cout<<"value at "<<i<<"is"<<p;
+                  //cout<<"value at "<<i<<"is"<<p;
                   sum=sum+p;
-              cout<<"value of sum is "<<sum<<endl;
+              //cout<<"value of sum is "<<sum<<endl;
               }
               else
               {
                   p=str1[i]-'0';
-                  cout<<"value at "<<i<<"is"<<p;
+                //  cout<<"value at "<<i<<"is"<<p;
                   sum=sum+p;
-              cout<<"value of sum is "<<sum<<endl;
+              //cout<<"value of sum is "<<sum<<endl;
               }
           }
           
