@@ -74,6 +74,7 @@ class Kata {
           }
           
            bool ans=(sum%10);
+        //
           if(ans==0)
           {
               cout<<"true";
