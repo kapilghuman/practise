@@ -17,7 +17,6 @@ int value(char c)
 }
 int main()
 {
-    
     string t;
     cin>>t;
     long p,sum=0;
