@@ -2,6 +2,7 @@
 using namespace std;
 int value(char c)
 {
+    
     char alpha[]={'I','V','X','L','C','D','M'};
     int arr[]={1,5,10,50,100,500,1000};
     int val;
@@ -37,6 +38,7 @@ int main()
         }
         sum=sum+p;
     }
+    //Kapil
     sum=sum+arr[t.size()-1];
     cout<<sum;
 }
