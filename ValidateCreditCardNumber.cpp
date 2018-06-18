@@ -7,7 +7,7 @@ class Kata {
       
       string str1=to_string(n);
       long sum=0;
-      
+      //Hello
       long nDigits = str1.size();
       int modu=nDigits % 2;
       //cout<<" value of modu is "<<modu<<" ";
