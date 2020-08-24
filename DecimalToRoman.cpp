@@ -39,6 +39,7 @@ int main()
         sum=sum+p;
     }
     //Kapil
+    //weird comment added
     sum=sum+arr[t.size()-1];
     cout<<sum;
 }
